@@ -1,0 +1,31 @@
+{
+    "name": "lfh-warm-theme",
+    "displayName": "LFH Warm Theme",
+    "description": "React TSX, JSX, CSS, HTML, PHP focused warm light and dark themes for Cursor and VS Code used in Looking For Horizon projects.",
+    "version": "0.0.1",
+    "publisher": "Denys Pyshniuk",
+    "engines": {
+        "vscode": "^1.80.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "LFH Warm Light",
+                "uiTheme": "vs",
+                "path": "./themes/lfh-warm-light-color-theme.json"
+            },
+            {
+                "label": "LFH Warm Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/lfh-warm-dark-color-theme.json"
+            }
+        ]
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/DenysPyshniuk/ide-color-theme"
+    }
+}
