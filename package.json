@@ -3,7 +3,7 @@
     "displayName": "LFH Warm Theme",
     "description": "React TSX, JSX, CSS, HTML, PHP focused warm light and dark themes for Cursor and VS Code used in Looking For Horizon projects.",
     "version": "0.0.1",
-    "publisher": "Denys Pyshniuk",
+    "publisher": "denys-pyshniuk",
     "engines": {
         "vscode": "^1.80.0"
     },
